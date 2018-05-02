@@ -1,0 +1,3 @@
+Downloaded images are saved into the comics directory.
+
+This file is a place holder so the directory is created automagically when the repo is cloned.
